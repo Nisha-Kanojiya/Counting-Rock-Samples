@@ -1,8 +1,10 @@
 # Counting-Rock-Samples
-My first new repository, Coded by ME
+My first new repository, Coded by ME in JAVA
 
 
 ***********COUNTING ROCK SAMPLE*****************
+
+
 
 import java.util.ArrayList; 
 
@@ -15,9 +17,9 @@ public class Main
   
         int count=0;
   
-		    Scanner s =new Scanner(System.in);
+        Scanner s =new Scanner(System.in);
     
-		    ArrayList<Integer> l=new ArrayList<Integer>();
+	ArrayList<Integer> l=new ArrayList<Integer>();
     
         int nos=s.nextInt();
         
